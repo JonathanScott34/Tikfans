@@ -7,7 +7,6 @@
   简体中文 | <a href="./README_ja.md">日本語</a> | <a href="README.md">English</a>
 </p>
 
-
 ## [官方地址](https://tikfans.dodns.org)
 
 # 关于我们
