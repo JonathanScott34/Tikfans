@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="./favicon.png" alt="TikFans Logo" width="80">
+</p>
 
-[简体中文](./README_zh.md) | 日本語 | [English](./README.md)
+<p align="center">
+  <a href="README_zh.md">简体中文</a> | 日本語 | <a href="./README.md">English</a>
+</p>
 
 # 私たちについて
 私たちはクリエイターのために生まれたストリーミング配信ネットワークです。
