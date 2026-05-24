@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./favicon.ico" alt="TikFans Logo" width="80">
+  <img src="./favicon.png" alt="TikFans Logo" width="80">
 </p>
 
 <p align="center">
