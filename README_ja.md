@@ -6,6 +6,8 @@
   <a href="README_zh.md">简体中文</a> | 日本語 | <a href="./README.md">English</a>
 </p>
 
+## [官方地址](https://tikfans.dodns.org)
+
 # 私たちについて
 私たちはクリエイターのために生まれたストリーミング配信ネットワークです。
 
