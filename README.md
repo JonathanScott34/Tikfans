@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./favicon.png" alt="TikFans Logo" width="80">
 </p>
